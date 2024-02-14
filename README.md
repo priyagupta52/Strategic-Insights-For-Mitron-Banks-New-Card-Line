@@ -20,3 +20,7 @@ Learnings:
 4) Holistic approach - age, location, profession.
 5) Anticipated positive business impact - higher card usage, increased spending, enhanced brand image for Mitron Bank. This project signifies the synergy between data analytics and business strategy, poised to elevate Mitron Bank's standing in the financial market.
 Gender & marital impact: Males, married individuals prominent card users.
+
+
+Interactive Dahboard 
+https://www.novypro.com/project/strategic-insights-for-mitron-banks-new-credit-card-line
